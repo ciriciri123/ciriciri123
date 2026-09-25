@@ -28,6 +28,26 @@ Outside academics, I serve as a **Team Leader in AIESEC in BINUS**, where I lead
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `Java` `C` `C++` `JavaScript` `TypeScript` `Go` `PHP`
+
+**AI / Data**
+
+`Scikit-learn` `OpenCV` `NumPy` `Pandas` `Word2Vec` `TF-IDF` `NER` `ORB` `BoVW`
+
+**Backend**
+
+`NestJS` `FastAPI` `Flask` `Laravel` `REST APIs`
+
+**Database & Tools**
+
+`MySQL` `Supabase` `Docker` `Git` `GitHub` `Postman` `Figma`
+
+---
+
 ## 🤝 Let's Connect
 
 I'm interested in **AI/ML, software engineering, applied research, and projects that create meaningful real-world impact**.
