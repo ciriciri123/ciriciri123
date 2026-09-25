@@ -32,9 +32,6 @@ Outside academics, I serve as a **Team Leader in AIESEC in BINUS**, where I lead
 
 I'm interested in **AI/ML, software engineering, applied research, and projects that create meaningful real-world impact**.
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 **riccyriandy@gmail.com**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccy-riandy-intan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=google-chrome&logoColor=white)]([YOUR_PORTFOLIO_URL](https://personal-portfolio-blond-one-60.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:riccyriandy@gmail.com)
